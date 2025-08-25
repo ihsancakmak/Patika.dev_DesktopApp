@@ -1,4 +1,6 @@
 package com.patikadev.Model;
 
-public class Admin {
+public class Admin extends User{
+
+
 }
